@@ -1,4 +1,4 @@
-# LabsOf1.github.io
+# LabsOf1.Multi-Power Distribution Sensor-Based MUX DC Motor Controller.io
 
 ### PROJECT 1 Multi-Power Distribution Sensor-Based MUX DC Motor Controller
 
